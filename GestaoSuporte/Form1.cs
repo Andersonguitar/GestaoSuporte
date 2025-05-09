@@ -16,5 +16,10 @@ namespace GestaoSuporte
         {
             InitializeComponent();
         }
+
+        private void btnEntrar(object sender, EventArgs e)
+        {
+
+        }
     }
 }
